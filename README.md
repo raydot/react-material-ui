@@ -1,3 +1,6 @@
+Following a react-mui [tutorial](https://medium.com/codingthesmartway-com-blog/getting-started-with-material-ui-for-react-material-design-for-react-364b2688b555) from Sebastian Eschweiler
+
+<hr>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
