@@ -1,5 +1,7 @@
 Following a react-mui [tutorial](https://medium.com/codingthesmartway-com-blog/getting-started-with-material-ui-for-react-material-design-for-react-364b2688b555) from Sebastian Eschweiler
 
+Conclusion: This course was more about Contentful than it was about MUI. The MUI stuff mentioned is _incredibly_ basic. The course also contains a few typos that interfere with the code. If you know nothing about the subject, you're not going to be able to get through this tutorial. If you know something about the subject, it's going to teach you very little.
+
 <hr>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
