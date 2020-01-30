@@ -2,6 +2,8 @@ Following a react-mui [tutorial](https://medium.com/codingthesmartway-com-blog/g
 
 Conclusion: This course was more about Contentful than it was about MUI. The MUI stuff mentioned is _incredibly_ basic. The course also contains a few typos that interfere with the code. If you know nothing about the subject, you're not going to be able to get through this tutorial. If you know something about the subject, it's going to teach you very little.
 
+_TODO: This code could use a little refactoring to match ES6 syntax a bit better and more effectively. Good place to try all of that out. Also, the Contenful variables are just screaming to be put into a .env file._
+
 <hr>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
